@@ -1,0 +1,7 @@
+name = "UDPipe"
+uuid = "d8696d0f-e634-451d-9bc2-c238d9c4fb50"
+authors = ["Peter Grajcar <peter.grajcar131@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CxxWrap = "1f15a43c-97ca-5a2a-ae31-89f07a497df4"
