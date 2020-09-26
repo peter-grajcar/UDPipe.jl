@@ -62,6 +62,12 @@ uuid = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
 [[Sockets]]
 uuid = "6462fe0b-24de-5631-8697-dd941f90decc"
 
+[[UDPipe_jll]]
+deps = ["Libdl", "Pkg", "libcxxwrap_julia_jll"]
+path = "/Users/petergrajcar/.julia/dev/UDPipe_jll"
+uuid = "41a5a540-3a0e-51a4-a518-13553378ad37"
+version = "0.1.0+0"
+
 [[UUIDs]]
 deps = ["Random", "SHA"]
 uuid = "cf7118a7-6976-5b1a-9a39-7adc72f591a4"

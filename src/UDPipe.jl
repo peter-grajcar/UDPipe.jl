@@ -1,5 +1,11 @@
 module UDPipe
+using CxxWrap
+using UDPipe_jll
 
-greet() = print("Hello World!")
+	@wrapmodule libudpipejl
+
+	function __init__()
+		@initcxx
+	end
 
 end # module

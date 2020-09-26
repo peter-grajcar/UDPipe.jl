@@ -5,3 +5,4 @@ version = "0.1.0"
 
 [deps]
 CxxWrap = "1f15a43c-97ca-5a2a-ae31-89f07a497df4"
+UDPipe_jll = "41a5a540-3a0e-51a4-a518-13553378ad37"
